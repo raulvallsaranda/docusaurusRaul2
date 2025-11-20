@@ -100,6 +100,16 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'benvinguda-raul',
+            label: 'Benvinguda',
+            position: 'left',
+          },
+          {
+            href: 'desplegaments-raul',
+            label: 'Desplegaments',
+            position: 'left',
+          },
         ],
       },
       footer: {
