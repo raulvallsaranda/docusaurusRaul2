@@ -101,12 +101,12 @@ const config = {
             position: 'right',
           },
           {
-            href: 'benvinguda-raul',
+            to: 'benvinguda-raul',
             label: 'Benvinguda',
             position: 'left',
           },
           {
-            href: 'desplegaments-raul',
+            to: 'desplegaments-raul',
             label: 'Desplegaments',
             position: 'left',
           },
